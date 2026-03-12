@@ -1,0 +1,22 @@
+type: hyperskill
+title: Traffic Light Simulator with Java
+language: English
+summary: "<p>Do you know how traffic lights were invented? Some time ago, it was decided\
+  \ to replace the traffic police officers with a looped automated system that gives\
+  \ information to drivers about whether they can continue driving or not. In this\
+  \ project, we will implement a simplified version of such a system for a road junction\
+  \ in which many roads converge to one.<strong> </strong>You will practice concepts\
+  \ frequently tested in technical interviews at top tech companies.</p>"
+programming_language: Java
+programming_language_version: 11
+content:
+  - Traffic Light Simulator with Java
+additional_files:
+  - name: .idea/inspectionProfiles/Project_Default.xml
+    visible: true
+  - name: build.gradle
+    visible: true
+  - name: settings.gradle
+    visible: true
+mode: Study
+yaml_version: 5

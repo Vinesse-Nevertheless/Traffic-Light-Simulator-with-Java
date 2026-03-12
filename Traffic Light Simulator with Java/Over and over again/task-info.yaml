@@ -1,0 +1,22 @@
+type: edu
+files:
+  - name: src/traffic/Main.java
+    visible: true
+    learner_created: false
+  - name: test/GlobalTests.java
+    visible: true
+    learner_created: false
+  - name: test/SystemOutput.java
+    visible: true
+    learner_created: false
+  - name: src/traffic/SystemRunnable.class
+    visible: true
+    is_binary: true
+    learner_created: true
+  - name: src/traffic/Main.class
+    visible: true
+    is_binary: true
+    learner_created: true
+feedback_link: https://hyperskill.org/projects/288/stages/1504/implement#comment
+status: Solved
+record: 4

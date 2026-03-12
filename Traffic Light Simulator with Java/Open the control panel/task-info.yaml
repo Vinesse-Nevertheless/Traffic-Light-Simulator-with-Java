@@ -1,0 +1,11 @@
+type: edu
+files:
+  - name: src/traffic/Main.java
+    visible: true
+    learner_created: false
+  - name: test/TrafficLightTest.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/projects/288/stages/1500/implement#comment
+status: Solved
+record: 6
