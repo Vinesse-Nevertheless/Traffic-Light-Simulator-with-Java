@@ -56,3 +56,11 @@ The core of the system relies on a **Circular Buffer** pattern, managed via `Ato
 - Managing race conditions in shared-memory environments.
 - Designing data structures that remain consistent even when elements are removed or added dynamically.
 - Mastering the interaction between blocking console I/O and non-blocking background tasks.
+
+
+## License
+This project is licensed under the [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) License - see the LICENSE file for details.
+
+![Java](https://img.shields.io/badge/language-Java-orange)
+![License](https://img.shields.io/badge/license-CC%20BY--NC%204.0-blue)
+![AI-No-Training](https://img.shields.io/badge/AI-No--Training-red)
